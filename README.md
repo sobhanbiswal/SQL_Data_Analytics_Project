@@ -1,1 +1,1 @@
-SQL
+SQL Data Analytics project
